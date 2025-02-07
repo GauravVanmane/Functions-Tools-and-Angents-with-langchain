@@ -1,5 +1,5 @@
 # Functions, Tools and Agents with langchain
-This is more about how to build AI agent.</br>
+This is more about how to build AI agent Coursera Project.</br>
   How LLM can Integrate into the software technologies 
 
 ## OUTLINE
